@@ -1,0 +1,16 @@
+﻿name,site,inn,support_team_size_min,support_evidence,evidence_url,evidence_type,source,hh_employer_url,vacancies_count
+Сбербанк,https://www.sberbank.ru,7707083893,0,,,jobs,hh_api,https://hh.ru/employer/1388900,0
+Тинькофф Банк,https://www.tinkoff.ru,7710140679,29,"На HH.ru найдено: 16 вакансий поддержки, 1 со сменным графиком",https://hh.ru/employer/78638,jobs,hh_api,https://hh.ru/employer/78638,16
+Альфа-Банк,https://alfabank.ru,7728168971,52,"На HH.ru найдено: 19 вакансий поддержки, 2 со сменным графиком",https://hh.ru/employer/80,jobs,hh_api,https://hh.ru/employer/80,19
+ВТБ,https://www.vtb.ru,7736212660,130,"На HH.ru найдено: 43 вакансий поддержки, 2 со сменным графиком",https://hh.ru/employer/4181,jobs,hh_api,https://hh.ru/employer/4181,43
+Газпромбанк,https://www.gazprombank.ru,7744001497,13,На HH.ru найдено: 6 вакансий поддержки,https://hh.ru/employer/3388,jobs,hh_api,https://hh.ru/employer/3388,6
+МТС,https://mts.ru,7740000076,0,,,jobs,hh_api,https://hh.ru/employer/1535255,0
+МегаФон,https://megafon.ru,7812014560,0,,,jobs,hh_api,https://hh.ru/employer/3127,0
+Ростелеком,https://rt.ru,7707049388,39,"На HH.ru найдено: 19 вакансий поддержки, 1 со сменным графиком",https://hh.ru/employer/2748,jobs,hh_api,https://hh.ru/employer/2748,19
+Wildberries,https://www.wildberries.ru,7728316484,48,"На HH.ru найдено: 16 вакансий поддержки, 1 со сменным графиком",https://hh.ru/employer/87021,jobs,hh_api,https://hh.ru/employer/87021,16
+OZON,https://www.ozon.ru,1027739244741,23,На HH.ru найдено: 16 вакансий поддержки,https://hh.ru/employer/2180,jobs,hh_api,https://hh.ru/employer/2180,16
+Яндекс.Маркет,https://market.yandex.ru,7736207543,2,"На HH.ru найдено: 2 вакансий поддержки (Специалист чат-поддержки Авто.ру, Специалист по верификации партнёров)",https://hh.ru/employer/1740,jobs,hh_api,https://hh.ru/employer/1740,2
+М.Видео,https://www.mvideo.ru,НЕ_НАЙДЕН,48,"На HH.ru найдено: 23 вакансий поддержки, 3 со сменным графиком",https://hh.ru/employer/2523,jobs,hh_api,https://hh.ru/employer/2523,23
+Эльдорадо,https://www.eldorado.ru,НЕ_НАЙДЕН,48,"На HH.ru найдено: 23 вакансий поддержки, 3 со сменным графиком",https://hh.ru/employer/2523,jobs,hh_api,https://hh.ru/employer/2523,23
+DNS,https://www.dns-shop.ru,НЕ_НАЙДЕН,2,"На HH.ru найдено: 2 вакансий поддержки (Оператор проектного отдела, Специалист бизнес - процессов)",https://hh.ru/employer/5920492,jobs,hh_api,https://hh.ru/employer/5920492,2
+Магнит,https://magnit.ru,НЕ_НАЙДЕН,0,,,jobs,hh_api,https://hh.ru/employer/5494263,0
