@@ -1,0 +1,21 @@
+﻿name,site_url,industry,inn,has_support_email,has_contact_form,has_online_chat,has_messengers,has_support_section,has_kb_or_faq,mentions_24_7,support_team_size_min,support_evidence,evidence_url,evidence_type,support_email,support_url,kb_url,chat_vendor,source
+Сбербанк,https://www.sberbank.ru,bank,7707083893,False,False,False,False,False,False,False,0.0,,,site,,,,,company_site
+Тинькофф Банк,https://www.tinkoff.ru,bank,7710140679,False,False,False,False,False,False,False,0.0,,,site,,,,,company_site
+Альфа-Банк,https://alfabank.ru,bank,7728168971,False,False,True,False,True,True,False,0.0,,,site,,https://alfabank.ru/make-money/investments/help/,https://alfabank.ru/sme/payservice/acquiring/about-acquiring/,,company_site
+ВТБ,https://www.vtb.ru,bank,7736212660,False,False,False,False,False,False,False,0.0,,,site,,,,,company_site
+Газпромбанк,https://www.gazprombank.ru,bank,7744001497,False,True,True,True,True,True,False,0.0,,,site,,https://www.gazprombank.ru/personal/page/restructuring/,https://www.gazprombank.ru/personal/page/faq-deposit/#faq,,company_site
+МТС,https://mts.ru,telecom,7740000076,False,False,True,True,True,False,False,0.0,,,site,,https://support.mts.ru/?utm_source=inhouse&utm_medium=mts_ru&utm_campaign=support&utm_content=main_footer&utm_term=link_tap,,,company_site
+Билайн,https://beeline.ru,telecom,7713076301,False,False,True,False,True,True,False,0.0,,,site,,https://beeline.ru/customers/support/,https://beeline.ru,,company_site
+МегаФон,https://megafon.ru,telecom,7812014560,True,False,True,False,False,False,False,0.0,,,site,info@megafon.ruчастным,,,,company_site
+Tele2,https://tele2.ru,telecom,5029223278,,,,,,,,,,,,,,,,
+Ростелеком,https://rt.ru,telecom,7707049388,False,True,False,False,True,False,False,0.0,,,site,,https://rt.ru/care,,,company_site
+Wildberries,https://www.wildberries.ru,retail,7728316484,,,,,,,,,,,,,,,,
+OZON,https://www.ozon.ru,retail,1027739244741,,,,,,,,,,,,,,,,
+Яндекс.Маркет,https://market.yandex.ru,retail,7736207543,False,True,True,True,False,False,False,0.0,,,site,,,,,company_site
+СИТИЛИНК,https://www.citilink.ru,retail,НЕ_НАЙДЕН,False,True,False,False,False,False,False,0.0,,,site,,,,,company_site
+М.Видео,https://www.mvideo.ru,retail,НЕ_НАЙДЕН,False,False,False,False,False,False,False,0.0,,,site,,,,,company_site
+Эльдорадо,https://www.eldorado.ru,retail,НЕ_НАЙДЕН,,,,,,,,,,,,,,,,
+DNS,https://www.dns-shop.ru,retail,НЕ_НАЙДЕН,,,,,,,,,,,,,,,,
+Лента,https://lenta.com,retail,НЕ_НАЙДЕН,,,,,,,,,,,,,,,,
+Магнит,https://magnit.ru,retail,НЕ_НАЙДЕН,False,False,True,False,True,False,True,10.0,Поддержка 24/7 (сменный график требует минимум 10 человек),https://magnit.ru,site,,https://magnit.ru/faq,,,company_site
+Пятерочка,https://5ka.ru,retail,НЕ_НАЙДЕН,False,False,False,False,False,False,False,0.0,,,site,,,,,company_site

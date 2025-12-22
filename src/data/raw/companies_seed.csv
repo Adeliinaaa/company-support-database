@@ -1,0 +1,56 @@
+﻿name,site_url,industry,inn
+Сбербанк,https://www.sberbank.ru,bank,7707083893
+Тинькофф Банк,https://www.tinkoff.ru,bank,7710140679
+Альфа-Банк,https://alfabank.ru,bank,7728168971
+ВТБ,https://www.vtb.ru,bank,7736212660
+Газпромбанк,https://www.gazprombank.ru,bank,7744001497
+МТС,https://mts.ru,telecom,7740000076
+Билайн,https://beeline.ru,telecom,7713076301
+МегаФон,https://megafon.ru,telecom,7812014560
+Tele2,https://tele2.ru,telecom,5029223278
+Ростелеком,https://rt.ru,telecom,7707049388
+Wildberries,https://www.wildberries.ru,retail,7728316484
+OZON,https://www.ozon.ru,retail,1027739244741
+Яндекс.Маркет,https://market.yandex.ru,retail,7736207543
+СИТИЛИНК,https://www.citilink.ru,retail,НЕ_НАЙДЕН
+М.Видео,https://www.mvideo.ru,retail,НЕ_НАЙДЕН
+Эльдорадо,https://www.eldorado.ru,retail,НЕ_НАЙДЕН
+DNS,https://www.dns-shop.ru,retail,НЕ_НАЙДЕН
+Лента,https://lenta.com,retail,НЕ_НАЙДЕН
+Магнит,https://magnit.ru,retail,НЕ_НАЙДЕН
+Пятерочка,https://5ka.ru,retail,НЕ_НАЙДЕН
+Яндекс,https://yandex.ru,it,7736207543
+VK,https://vk.com,it,7743001840
+Рамблер,https://rambler.ru,it,НЕ_НАЙДЕН
+1С,https://1c.ru,it,НЕ_НАЙДЕН
+Авито,https://www.avito.ru,it,7724458880
+Дром,https://www.drom.ru,it,НЕ_НАЙДЕН
+Юла,https://youla.ru,it,НЕ_НАЙДЕН
+2ГИС,https://2gis.ru,it,НЕ_НАЙДЕН
+Ингосстрах,https://www.ingos.ru,insurance,7714017986
+Ренессанс Страхование,https://www.renins.com,insurance,7736019967
+СОГАЗ,https://www.sogaz.ru,insurance,7707049388
+АльфаСтрахование,https://alfastrah.ru,insurance,НЕ_НАЙДЕН
+ВСК,https://www.vsk.ru,insurance,НЕ_НАЙДЕН
+Аэрофлот,https://www.aeroflot.ru,airline,7708511828
+S7 Airlines,https://www.s7.ru,airline,5408025106
+Победа,https://www.pobeda.aero,airline,НЕ_НАЙДЕН
+Уральские авиалинии,https://www.uralairlines.ru,airline,НЕ_НАЙДЕН
+Россия,https://rossiya-airlines.com,airline,НЕ_НАЙДЕН
+РЖД,https://www.rzd.ru,transport,7708503727
+Деловые Линии,https://www.dellin.ru,logistics,3443011960
+ПЭК,https://www.pecom.ru,logistics,НЕ_НАЙДЕН
+СДЭК,https://www.cdek.ru,logistics,НЕ_НАЙДЕН
+Boxberry,https://boxberry.ru,logistics,НЕ_НАЙДЕН
+Газпром,https://www.gazprom.ru,energy,7736050003
+Лукойл,https://lukoil.ru,energy,7706013788
+Роснефть,https://www.rosneft.ru,energy,НЕ_НАЙДЕН
+Сургутнефтегаз,https://www.surgutneftegas.ru,energy,НЕ_НАЙДЕН
+Татнефть,https://www.tatneft.ru,energy,НЕ_НАЙДЕН
+Яндекс.Такси,https://taxi.yandex.ru,service,7704340310
+Ситимобил,https://citimobil.ru,service,НЕ_НАЙДЕН
+Delivery Club,https://www.deliveryclub.ru,service,НЕ_НАЙДЕН
+Яндекс.Еда,https://eda.yandex.ru,service,7736207543
+СберМаркет,https://sbermarket.ru,service,НЕ_НАЙДЕН
+Wargaming,https://wargaming.net,gaming,5902290393
+Мирапринт,https://myprint.ru,service,НЕ_НАЙДЕН
