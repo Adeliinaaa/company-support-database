@@ -1,0 +1,14 @@
+﻿,data_quality_score,data_quality_score,data_quality_score,data_quality_score,support_team_size
+,count,mean,min,max,mean
+industry,,,,,
+airline,5,79.6,74,85,9.8
+bank,5,79.4,75,85,64.6
+energy,5,82.8,75,96,17.2
+gaming,1,68.0,68,68,0.0
+insurance,5,82.8,65,100,16.4
+it,8,73.25,68,81,2.62
+logistics,4,89.75,75,100,15.25
+retail,10,76.4,65,85,14.1
+service,6,66.67,65,75,1.67
+telecom,5,74.4,71,81,6.4
+transport,1,74.0,74,74,0.0
