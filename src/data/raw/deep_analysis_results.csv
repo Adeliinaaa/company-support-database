@@ -1,0 +1,11 @@
+﻿name,site,inn,industry,support_team_size_min,support_evidence,evidence_url,evidence_type,has_support_section,has_kb_or_faq,mentions_24_7,found_vacancies,vacancies_text,support_url_found,pages_checked
+Сбербанк,https://www.sberbank.ru,7707083893,bank,0,,,site,False,False,False,0,,,1
+Тинькофф Банк,https://www.tinkoff.ru,7710140679,bank,0,,,site,False,False,False,0,,,1
+Альфа-Банк,https://alfabank.ru,7728168971,bank,0,,,site,False,False,False,0,,,1
+ВТБ,https://www.vtb.ru,7736212660,bank,0,,,site,False,False,False,0,,,1
+Газпромбанк,https://www.gazprombank.ru,7744001497,bank,10,Поддержка 24/7 (сменный график требует минимум 10 человек),https://www.gazprombank.ru/personal/page/restructuring/,site,True,True,True,0,,https://www.gazprombank.ru/personal/page/restructuring/,2
+МТС,https://mts.ru,7740000076,telecom,0,,,site,False,False,False,0,,,1
+Билайн,https://beeline.ru,7713076301,telecom,0,,,site,True,True,False,0,"работают, даже если интернет пока недоступенважные сервисы остаются с тобой во время ограниченийпосмотреть доступные сервисыдоступные сервисысервисы и соцсетибилайнсервисы ВКонтактесервисы ЯндексОдноклассникиRutubeMail.ruРамблер2GISПочта РоссииGismeteoTopDeliveryвидео и фильмыRutubeсервисы ВКонтактебилайн твмагазины и маркетплейсыOzonWildberriesAvitoMagnitДиксиАзбука вкусаПятёрочкаПерекрёстокЧижикЕдадилМоя ВикторияКрасный Ярбанки и финансыАльфа-БанкгоссервисыГосуслугигоссервисысервисы Правительс",https://beeline.ru/customers/support/,3
+МегаФон,https://megafon.ru,7812014560,telecom,0,,,site,True,False,False,0,,https://megafon.ru/help/lk/?from=mf_b2c_menu,2
+Tele2,https://tele2.ru,5029223278,telecom,0,,,site,False,False,False,0,,,0
+Ростелеком,https://rt.ru,7707049388,telecom,0,,,site,True,True,False,0,,https://rt.ru/care,2

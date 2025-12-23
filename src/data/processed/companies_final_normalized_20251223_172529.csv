@@ -1,0 +1,89 @@
+﻿company_id,company_original_name,company_name_normalized,website,industry,company_size,location,description,email,phone,recent_jobs,job_count,source,data_quality_score,last_updated,name,site_url,inn,site,parsing_success,parsing_method,final_url,has_support_email,has_contact_form,has_online_chat,has_messengers,has_support_section,has_kb_or_faq,mentions_24_7,support_team_size_min,evidence_url,evidence_type,analysis_method,support_evidence,support_url,chat_vendor,page_title,kb_url,support_email,parsing_error
+COMP_0001,Сбербанк,Сбербанк,,bank,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Сбербанк,https://www.sberbank.ru,7707083893,https://www.sberbank.ru,True,requests,https://www.sberbank.ru/,False,False,False,False,False,False,False,0.0,https://www.sberbank.ru/,site,combined,nan,nan,nan,nan,nan,nan,nan
+COMP_0002,Тинькофф Банк,Тинькофф Банк,,bank,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Тинькофф Банк,https://www.tinkoff.ru,7710140679,nan,True,nan,nan,False,False,True,False,True,False,True,10.0,nan,nan,nan,Поддержка 24/7 (сменный график требует минимум 10 человек),https://www.cdn-tinkoff.ru/frontend-libraries/nojswarning/index.html,unknown,"Т-Банк — Кредитные и дебетовые карты, кредиты для бизнеса и физических лиц | Тинькофф",nan,nan,nan
+COMP_0003,Альфа-Банк,Альфа-Банк,,bank,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Альфа-Банк,https://alfabank.ru,7728168971,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0004,ВТБ,ВТБ,,bank,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,ВТБ,https://www.vtb.ru,7736212660,nan,True,nan,nan,False,False,False,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0005,Газпромбанк,Газпромбанк,,bank,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Газпромбанк,https://www.gazprombank.ru,7744001497,nan,True,nan,nan,False,True,True,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,https://www.gazprombank.ru/personal/page/faq-deposit/#faq,nan,nan
+COMP_0006,МТС,МТС,,telecom,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,МТС,https://mts.ru,7740000076,nan,True,nan,nan,False,False,True,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0007,Билайн,Билайн,,telecom,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Билайн,https://beeline.ru,7713076301,nan,True,nan,nan,False,False,True,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0008,МегаФон,МегаФон,,telecom,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,МегаФон,https://megafon.ru,7812014560,nan,True,nan,nan,False,True,True,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0009,Tele2,Tele2,,telecom,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Tele2,https://tele2.ru,5029223278,nan,True,nan,nan,False,False,True,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0010,Ростелеком,Ростелеком,,telecom,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Ростелеком,https://rt.ru,7707049388,nan,True,nan,nan,False,False,True,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0011,Wildberries,Wildberries,,Розничная торговля,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Wildberries,https://www.wildberries.ru,7728316484,nan,True,nan,nan,False,False,True,False,True,False,True,10.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0012,OZON,OZON,,Розничная торговля,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,OZON,https://www.ozon.ru,1027739244741,nan,True,nan,nan,False,False,False,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0013,Яндекс.Маркет,Яндекс.Маркет,,Розничная торговля,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Яндекс.Маркет,https://market.yandex.ru,7736207543,nan,True,nan,nan,False,False,True,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0014,СИТИЛИНК,СИТИЛИНК,,Розничная торговля,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,СИТИЛИНК,https://www.citilink.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,True,True,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0015,М.Видео,М.Видео,,Розничная торговля,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,М.Видео,https://www.mvideo.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0016,Эльдорадо,Эльдорадо,,Розничная торговля,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Эльдорадо,https://www.eldorado.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,True,True,False,True,False,True,10.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0017,DNS,DNS,,Розничная торговля,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,DNS,https://www.dns-shop.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0018,Лента,Лента,,Розничная торговля,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Лента,https://lenta.com,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0019,Магнит,Магнит,,Розничная торговля,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Магнит,https://magnit.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,True,False,True,True,True,10.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0020,Пятерочка,Пятерочка,,Розничная торговля,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Пятерочка,https://5ka.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0021,Яндекс,Яндекс,,IT/Технологии,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Яндекс,https://yandex.ru,7736207543,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0022,VK,VK,,IT/Технологии,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,VK,https://vk.com,7743001840,nan,True,nan,nan,False,False,False,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0023,Рамблер,Рамблер,,IT/Технологии,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Рамблер,https://rambler.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0024,1С,1С,,IT/Технологии,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,1С,https://1c.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0025,Авито,Авито,,IT/Технологии,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Авито,https://www.avito.ru,7724458880,nan,True,nan,nan,False,False,False,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0026,Дром,Дром,,IT/Технологии,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Дром,https://www.drom.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0027,Юла,Юла,,IT/Технологии,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Юла,https://youla.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,True,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0028,2ГИС,2ГИС,,IT/Технологии,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,2ГИС,https://2gis.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0029,Ингосстрах,Ингосстрах,,insurance,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Ингосстрах,https://www.ingos.ru,7714017986,nan,True,nan,nan,True,False,True,False,True,True,True,10.0,nan,nan,nan,nan,nan,nan,nan,nan,www@ingos.ru,nan
+COMP_0030,Ренессанс Страхование,Ренессанс Страхование,,insurance,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Ренессанс Страхование,https://www.renins.com,7736019967,nan,True,nan,nan,False,True,True,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0031,СОГАЗ,СОГАЗ,,insurance,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,СОГАЗ,https://www.sogaz.ru,7707049388,nan,True,nan,nan,True,False,True,False,True,True,True,10.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0032,АльфаСтрахование,АльфаСтрахование,,insurance,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,АльфаСтрахование,https://alfastrah.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0033,ВСК,ВСК,,insurance,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,ВСК,https://www.vsk.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0034,Аэрофлот,Аэрофлот,,airline,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Аэрофлот,https://www.aeroflot.ru,7708511828,nan,True,nan,nan,False,False,True,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0035,S7 Airlines,S7 Airlines,,airline,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,S7 Airlines,https://www.s7.ru,5408025106,nan,True,nan,nan,False,True,True,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0036,Победа,Победа,,airline,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Победа,https://www.pobeda.aero,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,True,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0037,Уральские авиалинии,Уральские авиалинии,,airline,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Уральские авиалинии,https://www.uralairlines.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,True,True,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0038,Россия,Россия,,airline,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Россия,https://rossiya-airlines.com,НЕ_НАЙДЕН,nan,True,nan,nan,False,True,False,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0039,РЖД,РЖД,,transport,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,РЖД,https://www.rzd.ru,7708503727,nan,True,nan,nan,False,True,False,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0040,Деловые Линии,Деловые Линии,,logistics,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Деловые Линии,https://www.dellin.ru,3443011960,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0041,ПЭК,ПЭК,,logistics,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,ПЭК,https://www.pecom.ru,НЕ_НАЙДЕН,nan,True,nan,nan,True,False,True,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0042,СДЭК,СДЭК,,logistics,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,СДЭК,https://www.cdek.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,True,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0043,Boxberry,Boxberry,,logistics,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Boxberry,https://boxberry.ru,НЕ_НАЙДЕН,nan,True,nan,nan,True,False,True,False,True,False,True,10.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0044,Газпром,Газпром,,energy,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Газпром,https://www.gazprom.ru,7736050003,nan,True,nan,nan,False,False,True,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0045,Лукойл,Лукойл,,energy,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Лукойл,https://lukoil.ru,7706013788,nan,True,nan,nan,False,True,False,False,True,True,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0046,Роснефть,Роснефть,,energy,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Роснефть,https://www.rosneft.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0047,Сургутнефтегаз,Сургутнефтегаз,,energy,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Сургутнефтегаз,https://www.surgutneftegas.ru,НЕ_НАЙДЕН,nan,True,nan,nan,True,False,False,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0048,Татнефть,Татнефть,,energy,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Татнефть,https://www.tatneft.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0049,Яндекс.Такси,Яндекс.Такси,,service,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Яндекс.Такси,https://taxi.yandex.ru,7704340310,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0050,Ситимобил,Ситимобил,,service,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Ситимобил,https://citimobil.ru,НЕ_НАЙДЕН,nan,False,nan,nan,,,,,,,,,nan,nan,nan,nan,nan,nan,nan,nan,nan,"Selenium error: Message: unknown error: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH
+  (Session info: chrome=142.0.7444.176)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1224103
+	0x1224144
+	0x102e71d
+	0x102bc77
+	0x101eec8
+	0x1020884
+	0x101f396
+	0x101ec82
+	0x101e98d
+	0x101c7fe
+	0x101d28b
+	0x10324ce
+	0x10bfb37
+	0x109c90c
+	0x10bee17
+	0x109c706
+	0x106da30
+	0x106ed54
+	0x14957b4
+	0x149098a
+	0x124c392
+	0x123c4c8
+	0x124324d
+	0x122c478
+	0x122c63c
+	0x12167ca
+	0x75ef7ba9
+	0x7761c3ab
+	0x7761c32f
+"
+COMP_0051,Delivery Club,Delivery Club,,service,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Delivery Club,https://www.deliveryclub.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0052,Яндекс.Еда,Яндекс.Еда,,service,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Яндекс.Еда,https://eda.yandex.ru,7736207543,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0053,СберМаркет,СберМаркет,,service,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,СберМаркет,https://sbermarket.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0054,Wargaming,Wargaming,,gaming,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Wargaming,https://wargaming.net,5902290393,nan,True,nan,nan,False,False,False,False,True,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+COMP_0055,Мирапринт,Мирапринт,,service,Не указан,,,,,,,"seed, enriched",30,2025-12-23 17:25:29,Мирапринт,https://myprint.ru,НЕ_НАЙДЕН,nan,True,nan,nan,False,False,False,False,False,False,False,0.0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
