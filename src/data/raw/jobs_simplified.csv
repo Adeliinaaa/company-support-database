@@ -1,16 +1,40 @@
 ﻿name,site,inn,support_team_size_min,support_evidence,evidence_url,evidence_type,source,hh_employer_url,vacancies_count
-Сбербанк,https://www.sberbank.ru,7707083893,0,,,jobs,hh_api,https://hh.ru/employer/1388900,0
+Сбербанк,https://www.sberbank.ru,7707083893,124,"На HH.ru найдено: 34 вакансий поддержки, 5 со сменным графиком",https://hh.ru/employer/3529,jobs,hh_api,https://hh.ru/employer/3529,34
 Тинькофф Банк,https://www.tinkoff.ru,7710140679,29,"На HH.ru найдено: 16 вакансий поддержки, 1 со сменным графиком",https://hh.ru/employer/78638,jobs,hh_api,https://hh.ru/employer/78638,16
-Альфа-Банк,https://alfabank.ru,7728168971,52,"На HH.ru найдено: 19 вакансий поддержки, 2 со сменным графиком",https://hh.ru/employer/80,jobs,hh_api,https://hh.ru/employer/80,19
-ВТБ,https://www.vtb.ru,7736212660,130,"На HH.ru найдено: 43 вакансий поддержки, 2 со сменным графиком",https://hh.ru/employer/4181,jobs,hh_api,https://hh.ru/employer/4181,43
-Газпромбанк,https://www.gazprombank.ru,7744001497,13,На HH.ru найдено: 6 вакансий поддержки,https://hh.ru/employer/3388,jobs,hh_api,https://hh.ru/employer/3388,6
+Альфа-Банк,https://alfabank.ru,7728168971,14,На HH.ru найдено: 7 вакансий поддержки,https://hh.ru/employer/80,jobs,hh_api,https://hh.ru/employer/80,7
+ВТБ,https://www.vtb.ru,7736212660,142,"На HH.ru найдено: 45 вакансий поддержки, 2 со сменным графиком",https://hh.ru/employer/4181,jobs,hh_api,https://hh.ru/employer/4181,45
+Газпромбанк,https://www.gazprombank.ru,7744001497,14,На HH.ru найдено: 7 вакансий поддержки,https://hh.ru/employer/3388,jobs,hh_api,https://hh.ru/employer/3388,7
 МТС,https://mts.ru,7740000076,0,,,jobs,hh_api,https://hh.ru/employer/1535255,0
 МегаФон,https://megafon.ru,7812014560,0,,,jobs,hh_api,https://hh.ru/employer/3127,0
-Ростелеком,https://rt.ru,7707049388,39,"На HH.ru найдено: 19 вакансий поддержки, 1 со сменным графиком",https://hh.ru/employer/2748,jobs,hh_api,https://hh.ru/employer/2748,19
-Wildberries,https://www.wildberries.ru,7728316484,48,"На HH.ru найдено: 16 вакансий поддержки, 1 со сменным графиком",https://hh.ru/employer/87021,jobs,hh_api,https://hh.ru/employer/87021,16
+Ростелеком,https://rt.ru,7707049388,32,На HH.ru найдено: 17 вакансий поддержки,https://hh.ru/employer/2748,jobs,hh_api,https://hh.ru/employer/2748,17
 OZON,https://www.ozon.ru,1027739244741,23,На HH.ru найдено: 16 вакансий поддержки,https://hh.ru/employer/2180,jobs,hh_api,https://hh.ru/employer/2180,16
-Яндекс.Маркет,https://market.yandex.ru,7736207543,2,"На HH.ru найдено: 2 вакансий поддержки (Специалист чат-поддержки Авто.ру, Специалист по верификации партнёров)",https://hh.ru/employer/1740,jobs,hh_api,https://hh.ru/employer/1740,2
-М.Видео,https://www.mvideo.ru,НЕ_НАЙДЕН,48,"На HH.ru найдено: 23 вакансий поддержки, 3 со сменным графиком",https://hh.ru/employer/2523,jobs,hh_api,https://hh.ru/employer/2523,23
-Эльдорадо,https://www.eldorado.ru,НЕ_НАЙДЕН,48,"На HH.ru найдено: 23 вакансий поддержки, 3 со сменным графиком",https://hh.ru/employer/2523,jobs,hh_api,https://hh.ru/employer/2523,23
+Яндекс.Маркет,https://market.yandex.ru,7736207543,10,На HH.ru найдено: 5 вакансий поддержки,https://hh.ru/employer/1740,jobs,hh_api,https://hh.ru/employer/1740,5
+М.Видео,https://www.mvideo.ru,НЕ_НАЙДЕН,43,"На HH.ru найдено: 23 вакансий поддержки, 2 со сменным графиком",https://hh.ru/employer/2523,jobs,hh_api,https://hh.ru/employer/2523,23
+Эльдорадо,https://www.eldorado.ru,НЕ_НАЙДЕН,43,"На HH.ru найдено: 23 вакансий поддержки, 2 со сменным графиком",https://hh.ru/employer/2523,jobs,hh_api,https://hh.ru/employer/2523,23
 DNS,https://www.dns-shop.ru,НЕ_НАЙДЕН,2,"На HH.ru найдено: 2 вакансий поддержки (Оператор проектного отдела, Специалист бизнес - процессов)",https://hh.ru/employer/5920492,jobs,hh_api,https://hh.ru/employer/5920492,2
 Магнит,https://magnit.ru,НЕ_НАЙДЕН,0,,,jobs,hh_api,https://hh.ru/employer/5494263,0
+Яндекс,https://yandex.ru,7736207543,10,На HH.ru найдено: 5 вакансий поддержки,https://hh.ru/employer/1740,jobs,hh_api,https://hh.ru/employer/1740,5
+VK,https://vk.com,7743001840,10,На HH.ru найдено: 5 вакансий поддержки,https://hh.ru/employer/15478,jobs,hh_api,https://hh.ru/employer/15478,5
+Дром,https://www.drom.ru,НЕ_НАЙДЕН,0,,,jobs,hh_api,https://hh.ru/employer/1781300,0
+Юла,https://youla.ru,НЕ_НАЙДЕН,0,,,jobs,hh_api,https://hh.ru/employer/4562332,0
+2ГИС,https://2gis.ru,НЕ_НАЙДЕН,1,На HH.ru найдено: 1 вакансий поддержки (Специалист службы поддержки пользователей (сервис Отелло)),https://hh.ru/employer/64174,jobs,hh_api,https://hh.ru/employer/64174,1
+Ингосстрах,https://www.ingos.ru,7714017986,10,"На HH.ru найдено: 3 вакансий поддержки (Специалист письменной поддержки, Исследователь, Менеджер по продаже страховых продуктов)",https://hh.ru/employer/4309,jobs,hh_api,https://hh.ru/employer/4309,3
+СОГАЗ,https://www.sogaz.ru,7707049388,10,На HH.ru найдено: 6 вакансий поддержки,https://hh.ru/employer/596610,jobs,hh_api,https://hh.ru/employer/596610,6
+АльфаСтрахование,https://alfastrah.ru,НЕ_НАЙДЕН,62,"На HH.ru найдено: 27 вакансий поддержки, 1 со сменным графиком",https://hh.ru/employer/370,jobs,hh_api,https://hh.ru/employer/370,27
+ВСК,https://www.vsk.ru,НЕ_НАЙДЕН,0,,,jobs,hh_api,https://hh.ru/employer/1296227,0
+Аэрофлот,https://www.aeroflot.ru,7708511828,36,"На HH.ru найдено: 11 вакансий поддержки, 3 со сменным графиком",https://hh.ru/employer/1373,jobs,hh_api,https://hh.ru/employer/1373,11
+Победа,https://www.pobeda.aero,НЕ_НАЙДЕН,1,На HH.ru найдено: 1 вакансий поддержки (Junior Разработчик 1С),https://hh.ru/employer/1520649,jobs,hh_api,https://hh.ru/employer/1520649,1
+Уральские авиалинии,https://www.uralairlines.ru,НЕ_НАЙДЕН,12,"На HH.ru найдено: 2 вакансий поддержки, 2 со сменным графиком (Оператор контакт-центра, Грузчик-экспедитор уборочного и бытового оборудования)",https://hh.ru/employer/36860,jobs,hh_api,https://hh.ru/employer/36860,2
+РЖД,https://www.rzd.ru,7708503727,0,,,jobs,hh_api,https://hh.ru/employer/789521,0
+Деловые Линии,https://www.dellin.ru,3443011960,3,На HH.ru найдено: 1 вакансий поддержки (Менеджер по работе с клиентами),https://hh.ru/employer/29413,jobs,hh_api,https://hh.ru/employer/29413,1
+ПЭК,https://www.pecom.ru,НЕ_НАЙДЕН,45,На HH.ru найдено: 15 вакансий поддержки,https://hh.ru/employer/3838,jobs,hh_api,https://hh.ru/employer/3838,15
+СДЭК,https://www.cdek.ru,НЕ_НАЙДЕН,3,На HH.ru найдено: 1 вакансий поддержки (Менеджер по поддержке B2B клиентов (СДЭК)),https://hh.ru/employer/10487927,jobs,hh_api,https://hh.ru/employer/10487927,1
+Газпром,https://www.gazprom.ru,7736050003,16,"На HH.ru найдено: 8 вакансий поддержки, 1 со сменным графиком",https://hh.ru/employer/39305,jobs,hh_api,https://hh.ru/employer/39305,8
+Лукойл,https://lukoil.ru,7706013788,37,"На HH.ru найдено: 8 вакансий поддержки, 5 со сменным графиком",https://hh.ru/employer/907345,jobs,hh_api,https://hh.ru/employer/907345,8
+Роснефть,https://www.rosneft.ru,НЕ_НАЙДЕН,1,На HH.ru найдено: 1 вакансий поддержки (Кассир торгового зала АЗК),https://hh.ru/employer/1490605,jobs,hh_api,https://hh.ru/employer/1490605,1
+Сургутнефтегаз,https://www.surgutneftegas.ru,НЕ_НАЙДЕН,1,На HH.ru найдено: 1 вакансий поддержки (Специалист в контакт-центр),https://hh.ru/employer/2238683,jobs,hh_api,https://hh.ru/employer/2238683,1
+Татнефть,https://www.tatneft.ru,НЕ_НАЙДЕН,31,"На HH.ru найдено: 12 вакансий поддержки, 3 со сменным графиком",https://hh.ru/employer/575665,jobs,hh_api,https://hh.ru/employer/575665,12
+Яндекс.Такси,https://taxi.yandex.ru,7704340310,10,На HH.ru найдено: 5 вакансий поддержки,https://hh.ru/employer/1740,jobs,hh_api,https://hh.ru/employer/1740,5
+Ситимобил,https://citimobil.ru,НЕ_НАЙДЕН,0,,,jobs,hh_api,https://hh.ru/employer/8911122,0
+Яндекс.Еда,https://eda.yandex.ru,7736207543,0,,,jobs,hh_api,https://hh.ru/employer/9694561,0
+СберМаркет,https://sbermarket.ru,НЕ_НАЙДЕН,0,,,jobs,hh_api,https://hh.ru/employer/11221935,0

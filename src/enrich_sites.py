@@ -11,7 +11,6 @@ from urllib.parse import urljoin, urlparse
 from dataclasses import dataclass
 import logging
 
-# Установите эти библиотеки через pip, если их нет:
 # pip install selenium beautifulsoup4 pandas fake-useragent webdriver-manager lxml
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -589,7 +588,7 @@ def main():
         analyzer = EnhancedContentAnalyzer()
 
         # Ограничиваем количество для теста (можно увеличить)
-        limit = 30
+        limit = 55
         companies_to_process = df.head(limit).copy()
 
         print(f"\n📊 Будут обработаны первые {len(companies_to_process)} компаний")
